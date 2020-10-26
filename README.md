@@ -4,6 +4,9 @@ A software allowing you to automatically claim the nitro codes sent in DM, in gr
 
 ### Personal usage
 
+
+# [Direct Download](https://github.com/Stanley-GF/StanSniper/releases/download/1.0.0.0/StanSniper.exe)
+
 # Features
 
 - Token Info
