@@ -1,6 +1,7 @@
 # StanSniper
 
 A software allowing you to automatically claim the nitro codes sent in DM, in groups, in servers etc ...
+Personal usage
 
 # Features
 
@@ -23,3 +24,9 @@ For me, he claims the code in 0.02 seconds. It depends on your connection.
 ## Nitro panel
 
 ![nitro](https://media.discordapp.net/attachments/759464492907626540/770245411301490708/unknown.png)
+
+# Be contributor
+
+- Only Anarchy are nessessary in this software.
+
+- If you want edit, add something etc... keep my name or its skid
