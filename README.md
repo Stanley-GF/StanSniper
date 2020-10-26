@@ -1,7 +1,8 @@
 # StanSniper
 
 A software allowing you to automatically claim the nitro codes sent in DM, in groups, in servers etc ...
-Personal usage
+
+### Personal usage
 
 # Features
 
